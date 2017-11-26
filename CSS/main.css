@@ -110,3 +110,8 @@ aside{
 	color: #0D2C40;
 	/*text-decoration: none;*/
 }
+button{
+	background-color: #0D2C40;
+	color: white;
+	margin: 30px;
+}
